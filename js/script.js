@@ -57,7 +57,7 @@ AOS.init({
 // Initialize and add the map
       function initMap() {
         // The location of Uluru
-        const uluru = { lat: 53.7148275, lng: 4209609 };
+        const uluru = { lat: -6.031130935103352, lng: -38.34552047169715 };
         // The map, centered at Uluru
         const map = new google.maps.Map(document.getElementById("map"), {
           zoom: 8,
